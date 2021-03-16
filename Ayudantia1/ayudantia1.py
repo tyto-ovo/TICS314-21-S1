@@ -1,6 +1,3 @@
-# Autor: Cristobal Drago
-# Mail: crdrago@alumnos.uai.cl
-
 import pandas as pd
 import numpy as np
 
